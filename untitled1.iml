@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Recursion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Assignments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recursiveInterviewQuestion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AssignmentSearchingandSorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AssignmentSearchingandSorting/odd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Live" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GusserGameProject" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DivideandConquer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/greedy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recursiveInterviewQuestion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LearnCollectionFramework" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
