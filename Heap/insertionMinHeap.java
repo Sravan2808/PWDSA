@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//TimeComplexity : O(logn)
+//SpaceComplexity : O(1)
 public class insertionMinHeap {
     static void swap(List<Integer> heap , int l,int r){
         int temp = heap.get(l);
