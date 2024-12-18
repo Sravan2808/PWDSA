@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class insertionMaxHeap {
 
@@ -25,6 +26,7 @@ public class insertionMaxHeap {
 
     }
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         List<Integer> heap = new ArrayList<>();
         heap.add(60);
         heap.add(50);
@@ -34,7 +36,9 @@ public class insertionMaxHeap {
         heap.add(30);
         heap.add(10);
         System.out.println(heap);
-        insert_in_MaxHeap(heap,55);
+        System.out.print("Insertion the Element : ");
+        int element = sc.nextInt();
+        insert_in_MaxHeap(heap,element);
         System.out.println(heap);
     }
 }
